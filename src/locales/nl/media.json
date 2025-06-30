@@ -1,7 +1,7 @@
 {
   "media": {
     "title": "Media",
-    "subtitle": "Vind alle media-optredens, publicaties en visuele content van Isac Miller in de publieke en professionele ruimte.",
+    "subtitle": "Vind alle media-optredens, publicaties en visuele content van Isaac Miller in de publieke en professionele ruimte.",
     "categories": {
       "press": {
         "title": "Pers",
@@ -18,7 +18,7 @@
     },
     "view_more": "Bekijk meer",
     "featured_title": "In de schijnwerpers",
-    "featured_subtitle": "De laatste optredens en publicaties van Isac Miller",
+    "featured_subtitle": "De laatste optredens en publicaties van Isaac Miller",
     "featured_highlights": {
       "sudinfo_nivelles": {
         "type": "Pers",
@@ -81,7 +81,7 @@
   },
   "photos_page": {
     "title": "Fotogalerij",
-    "subtitle": "Ontdek Isac Miller in actie en op professionele evenementen.",
+    "subtitle": "Ontdek Isaac Miller in actie en op professionele evenementen.",
     "categories": {
       "all": "Alle",
       "portraits": "Portretten",
@@ -96,16 +96,16 @@
     },
     "gallery": {
       "portrait_robe": {
-        "title": "Isac Miller in toga"
+        "title": "Isaac Miller in toga"
       },
       "audience": {
-        "title": "Isac Miller in de rechtszaal"
+        "title": "Isaac Miller in de rechtszaal"
       }
     }
   },
   "videos_page": {
     "title": "Videotheek",
-    "subtitle": "Vind alle tv-interviews, conferenties en juridische analyses van Isac Miller in videoformaat.",
+    "subtitle": "Vind alle tv-interviews, conferenties en juridische analyses van Isaac Miller in videoformaat.",
     "categories": {
       "all": "Alle video's",
       "interviews": "Interviews"

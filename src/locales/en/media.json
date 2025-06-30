@@ -1,7 +1,7 @@
 {
   "media": {
     "title": "Media",
-    "subtitle": "Find all of Isac Miller's media appearances, publications, and visual content in the public and professional space.",
+    "subtitle": "Find all of Isaac Miller's media appearances, publications, and visual content in the public and professional space.",
     "categories": {
       "press": {
         "title": "Press",
@@ -18,7 +18,7 @@
     },
     "view_more": "View more",
     "featured_title": "In the Spotlight",
-    "featured_subtitle": "The latest appearances and publications of Isac Miller",
+    "featured_subtitle": "The latest appearances and publications of Isaac Miller",
     "featured_highlights": {
       "sudinfo_nivelles": {
         "type": "Press",
@@ -81,7 +81,7 @@
   },
   "photos_page": {
     "title": "Photo Gallery",
-    "subtitle": "Discover Isac Miller in action and at professional events.",
+    "subtitle": "Discover Isaac Miller in action and at professional events.",
     "categories": {
       "all": "All",
       "portraits": "Portraits",
@@ -96,16 +96,16 @@
     },
     "gallery": {
       "portrait_robe": {
-        "title": "Isac Miller in lawyer's robe"
+        "title": "Isaac Miller in lawyer's robe"
       },
       "audience": {
-        "title": "Isac Miller in court"
+        "title": "Isaac Miller in court"
       }
     }
   },
   "videos_page": {
     "title": "Video Library",
-    "subtitle": "Find all of Isac Miller's TV interviews, conferences, and legal analyses in video format.",
+    "subtitle": "Find all of Isaac Miller's TV interviews, conferences, and legal analyses in video format.",
     "categories": {
       "all": "All videos",
       "interviews": "Interviews"

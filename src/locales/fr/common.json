@@ -1,6 +1,6 @@
 {
   "header": {
-    "title": "Isac Miller",
+    "title": "Isaac Miller",
     "subtitle": "Avocat Pénaliste",
     "home": "Accueil",
     "booking": "Réservation",
@@ -16,7 +16,7 @@
     "book_appointment": "Prendre RDV"
   },
   "footer": {
-    "title": "Isac Miller",
+    "title": "Isaac Miller",
     "subtitle": "Avocat Pénaliste",
     "description": "Expert en droit pénal en Belgique, spécialisé dans la défense devant les tribunaux correctionnels, de police et la cour d'assises. Une approche personnalisée pour chaque client.",
     "location": "Belgique",
@@ -28,7 +28,7 @@
     "nav_booking": "Prendre rendez-vous",
     "contact_title": "Contact & Réseaux",
     "google_business": "Fiche Google",
-    "copyright": "© {year} Isac Miller. Tous droits réservés.",
+    "copyright": "© {year} Isaac Miller. Tous droits réservés.",
     "legal_notice": "Mentions légales",
     "privacy_policy": "Politique de confidentialité"
   }

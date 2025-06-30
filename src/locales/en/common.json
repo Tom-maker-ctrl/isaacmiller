@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Isaac Miller",
+    "subtitle": "Criminal Lawyer",
+    "home": "Home",
+    "booking": "Booking",
+    "media": "Media",
+    "press": "Press",
+    "photos": "Photos",
+    "videos": "Videos",
+    "expertise": "Expertise",
+    "pretrial_detention": "Pre-trial Detention",
+    "assizes_court": "Court of Assizes",
+    "police_court": "Police Court",
+    "criminal_court": "Criminal Court",
+    "book_appointment": "Book Appointment"
+  },
+  "footer": {
+    "title": "Isaac Miller",
+    "subtitle": "Criminal Lawyer",
+    "description": "Expert in Belgian criminal law, specializing in defense before criminal, police, and assize courts. A personalized approach for each client.",
+    "location": "Belgium",
+    "vat": "VAT: BE0753988720",
+    "navigation_title": "Navigation",
+    "nav_home": "Home",
+    "nav_expertise": "Areas of Expertise",
+    "nav_media": "Media",
+    "nav_booking": "Book appointment",
+    "contact_title": "Contact & Networks",
+    "google_business": "Google Business Profile",
+    "copyright": "© {year} Isaac Miller. All rights reserved.",
+    "legal_notice": "Legal Notice",
+    "privacy_policy": "Privacy Policy"
+  }
+}

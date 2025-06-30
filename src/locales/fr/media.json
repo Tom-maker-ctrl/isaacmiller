@@ -1,0 +1,127 @@
+{
+  "media": {
+    "title": "Médias",
+    "subtitle": "Retrouvez toutes les apparitions médiatiques, publications et contenus visuels d'Isaac Miller dans l'espace public et professionnel.",
+    "categories": {
+      "press": {
+        "title": "Presse",
+        "description": "Articles de presse et interviews dans les médias belges"
+      },
+      "photos": {
+        "title": "Photos",
+        "description": "Galerie photo professionnelle et événements"
+      },
+      "videos": {
+        "title": "Vidéos",
+        "description": "Interviews télévisées et conférences"
+      }
+    },
+    "view_more": "Voir plus",
+    "featured_title": "À la une",
+    "featured_subtitle": "Les dernières apparitions et publications d'Isaac Miller",
+    "featured_highlights": {
+      "sudinfo_nivelles": {
+        "type": "Presse",
+        "title": "Sudinfo – Le dealer attitré de Nivelles"
+      },
+      "rtl_marcinelle": {
+        "type": "Vidéo",
+        "title": "Enfant séquestré à Marcinelle"
+      },
+      "dhnet_office": {
+        "type": "Presse",
+        "title": "DHnet – L’Office des étrangers désavoué"
+      }
+    },
+    "read_more": "Lire la suite",
+    "presence_title": "Présence médiatique",
+    "stats": {
+      "appearances": "Apparitions médias",
+      "publications": "Articles et publications",
+      "conferences": "Conférences"
+    },
+    "carousel": {
+      "slide1": "La préparation. Le dévouement. Chaque cas est une histoire, chaque client une priorité. L'engagement total avant chaque plaidoyer.",
+      "slide2": "L'entrée en scène. La défense. Franchir les portes du tribunal, c'est porter votre voix, défendre vos droits avec conviction et expertise."
+    }
+  },
+  "press_page": {
+    "title": "Revue de Presse",
+    "search_placeholder": "Rechercher dans les articles...",
+    "all_years": "Toutes les années",
+    "no_articles_found_title": "Aucun article trouvé",
+    "no_articles_found_desc": "Essayez de modifier vos critères de recherche.",
+    "read_article": "Lire l'article",
+    "articles": {
+      "sudinfo_nivelles": {
+        "title": "Sudinfo – Le dealer attitré de Nivelles",
+        "excerpt": "Mouhamadou, 21 ans, alias \"Moha\", était considéré comme le dealer de cocaïne attitré de Nivelles. Son procès a mis en lumière un réseau bien organisé."
+      },
+      "dhnet_office": {
+        "title": "DHnet – L’Office des étrangers désavoué",
+        "excerpt": "La justice a libéré des personnes que l'Office des étrangers voulait expulser, jugeant les dossiers incomplets. Une décision qui soulève des questions sur les procédures d'expulsion."
+      },
+      "avenir_clitophon": {
+        "title": "L’Avenir – Réquisitoire dans l’affaire Clitophon",
+        "excerpt": "L'avocat général a requis une peine de 27 ans de réclusion criminelle contre Jean-Luc Clitophon, auteur présumé d'un meurtre à La Louvière."
+      },
+      "dhnet_crime": {
+        "title": "DHnet – Crime à La Louvière",
+        "excerpt": "Les avocats de Jean-Luc Clitophon contestent l'intention d'homicide dans l'affaire du crime de La Louvière, plaidant pour une requalification des faits."
+      },
+      "sudinfo_enquete": {
+        "title": "Sudinfo – Enquête bâclée à La Louvière",
+        "excerpt": "Un homme jugé pour des coups sur une femme à la Place Mansart à La Louvière pourrait bénéficier d'une enquête jugée \"bâclée\" par la défense."
+      },
+      "rtl_agression": {
+        "title": "RTL Info – Agression mortelle à Ostende",
+        "excerpt": "Le mandat d'arrêt d'un homme suspecté d'une agression mortelle à Ostende a été prolongé. L'enquête se poursuit pour déterminer les circonstances exactes du drame."
+      }
+    }
+  },
+  "photos_page": {
+    "title": "Galerie Photos",
+    "subtitle": "Découvrez Isaac Miller en action et lors d'événements professionnels.",
+    "categories": {
+      "all": "Tous",
+      "portraits": "Portraits",
+      "courts": "Tribunaux"
+    },
+    "view_large": "Voir en grand",
+    "no_photos_title": "Aucune photo dans cette catégorie",
+    "no_photos_desc": "Sélectionnez une autre catégorie pour voir plus de photos.",
+    "modal": {
+      "views": "{count} vues",
+      "likes": "{count} j'aime"
+    },
+    "gallery": {
+      "portrait_robe": {
+        "title": "Isaac Miller en robe d'avocat"
+      },
+      "audience": {
+        "title": "Isaac Miller en audience"
+      }
+    }
+  },
+  "videos_page": {
+    "title": "Vidéothèque",
+    "subtitle": "Retrouvez toutes les interviews télévisées, conférences et analyses juridiques d'Isaac Miller en format vidéo.",
+    "categories": {
+      "all": "Toutes les vidéos",
+      "interviews": "Interviews"
+    },
+    "no_videos_title": "Aucune vidéo dans cette catégorie",
+    "no_videos_desc": "Sélectionnez une autre catégorie pour voir plus de vidéos.",
+    "featured_video_title": "Vidéo à la une",
+    "watch_video": "Regarder la vidéo",
+    "watch_now": "Regarder maintenant",
+    "view": "Voir",
+    "views": "{count} vues",
+    "videos": {
+      "marcinelle": {
+        "title": "Enfant séquestré à Marcinelle: le procès des parents commence au tribunal",
+        "description": "Reportage sur le début du procès des parents dans l'affaire de l'enfant séquestré à Marcinelle."
+      }
+    }
+  }
+}

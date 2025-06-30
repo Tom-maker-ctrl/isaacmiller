@@ -1,0 +1,35 @@
+{
+  "header": {
+    "title": "Isaac Miller",
+    "subtitle": "Strafrechtadvocaat",
+    "home": "Home",
+    "booking": "Afspraak",
+    "media": "Media",
+    "press": "Pers",
+    "photos": "Foto's",
+    "videos": "Video's",
+    "expertise": "Expertise",
+    "pretrial_detention": "Voorlopige hechtenis",
+    "assizes_court": "Hof van Assisen",
+    "police_court": "Politierechtbank",
+    "criminal_court": "Correctionele rechtbank",
+    "book_appointment": "Afspraak maken"
+  },
+  "footer": {
+    "title": "Isaac Miller",
+    "subtitle": "Strafrechtadvocaat",
+    "description": "Expert in Belgisch strafrecht, gespecialiseerd in verdediging voor correctionele, politie- en assisenhoven. Een gepersonaliseerde aanpak voor elke cliënt.",
+    "location": "België",
+    "vat": "BTW: BE0753988720",
+    "navigation_title": "Navigatie",
+    "nav_home": "Home",
+    "nav_expertise": "Expertisegebieden",
+    "nav_media": "Media",
+    "nav_booking": "Afspraak maken",
+    "contact_title": "Contact & Netwerken",
+    "google_business": "Google Bedrijfsprofiel",
+    "copyright": "© {year} Isaac Miller. Alle rechten voorbehouden.",
+    "legal_notice": "Wettelijke vermeldingen",
+    "privacy_policy": "Privacybeleid"
+  }
+}

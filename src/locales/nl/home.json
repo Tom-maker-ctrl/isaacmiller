@@ -1,0 +1,61 @@
+{
+  "home": {
+    "hero": {
+      "subtitle": "Strafrechtadvocaat",
+      "intro": "Expert in Belgisch strafrecht, ik begeleid u met strengheid en vastberadenheid door alle strafrechtbanken.",
+      "slogan": "\"Rechtvaardigheid met strengheid, verdediging met menselijkheid.\"",
+      "appointment_button": "Maak een afspraak",
+      "emergency_button": "Spoed: 0471 60 94 63"
+    },
+    "stats": {
+      "experience": "Jaar ervaring",
+      "cases": "Behandelde zaken",
+      "satisfaction": "Tevredenheidsgraad"
+    },
+    "expertise": {
+      "title": "Kies uw expertisegebied",
+      "subtitle": "Een gespecialiseerde aanpak voor elk type strafprocedure",
+      "correctional_title": "Correctionele Rechtbank",
+      "correctional_desc": "Deskundige verdediging in complexe strafzaken",
+      "police_title": "Politierechtbank",
+      "police_desc": "Specialisatie in verkeersovertredingen en boetes",
+      "book_now": "Boek nu",
+      "see_all_button": "Bekijk alle expertisegebieden"
+    },
+    "why_us": {
+      "title": "Waarom kiezen voor Isaac Miller?",
+      "subtitle": "Erkende expertise ten dienste van uw verdediging",
+      "feature1_title": "Erkende Expertise",
+      "feature1_desc": "3+ jaar ervaring in het strafrecht met een scherpe specialisatie in alle strafrechtbanken.",
+      "feature2_title": "Gepersonaliseerde Aanpak",
+      "feature2_desc": "Elke cliënt profiteert van een op maat gemaakte verdedigingsstrategie, aangepast aan hun specifieke situatie.",
+      "feature3_title": "Bewezen Resultaten",
+      "feature3_desc": "Een uitzonderlijk slagingspercentage dankzij een zorgvuldige voorbereiding en effectief pleidooi."
+    },
+    "press": {
+      "title": "In de pers",
+      "read_article": "Lees artikel",
+      "see_all_button": "Bekijk alle persartikelen",
+      "articles": {
+        "sudinfo_nivelles": {
+          "title": "Sudinfo – De vaste dealer van Nijvel",
+          "excerpt": "Mouhamadou, 21, alias \"Moha\", werd beschouwd als de vaste cocaïnedealer van Nijvel..."
+        },
+        "dhnet_office": {
+          "title": "DHnet – De Dienst Vreemdelingenzaken teruggefloten",
+          "excerpt": "De rechtbank heeft personen vrijgelaten die de Dienst Vreemdelingenzaken wilde uitzetten, omdat de dossiers onvolledig waren..."
+        },
+        "avenir_clitophon": {
+          "title": "L’Avenir – requisitoir in de zaak Clitophon",
+          "excerpt": "De advocaat-generaal heeft een gevangenisstraf van 27 jaar geëist tegen Jean-Luc Clitophon..."
+        }
+      }
+    },
+    "consultation": {
+      "title": "Een consultatie nodig?",
+      "subtitle": "Neem vandaag nog contact met mij op voor een eerste beoordeling van uw situatie. Beschikbaar voor noodgevallen.",
+      "appointment_button": "Maak een afspraak",
+      "emergency_button": "Spoedoproep: 0471 60 94 63"
+    }
+  }
+}

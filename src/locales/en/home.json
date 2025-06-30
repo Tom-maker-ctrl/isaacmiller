@@ -1,0 +1,61 @@
+{
+  "home": {
+    "hero": {
+      "subtitle": "Criminal Lawyer",
+      "intro": "Expert in Belgian criminal law, I guide you with rigor and determination through all criminal courts.",
+      "slogan": "\"Justice with rigor, defense with humanity.\"",
+      "appointment_button": "Book an appointment",
+      "emergency_button": "Emergency: 0471 60 94 63"
+    },
+    "stats": {
+      "experience": "Years of experience",
+      "cases": "Cases handled",
+      "satisfaction": "Satisfaction rate"
+    },
+    "expertise": {
+      "title": "Choose your area of expertise",
+      "subtitle": "A specialized approach for each type of criminal procedure",
+      "correctional_title": "Criminal Court",
+      "correctional_desc": "Expert defense in complex criminal cases",
+      "police_title": "Police Court",
+      "police_desc": "Specialization in traffic offenses and fines",
+      "book_now": "Book Now",
+      "see_all_button": "See all areas of expertise"
+    },
+    "why_us": {
+      "title": "Why choose Isaac Miller?",
+      "subtitle": "Recognized expertise at the service of your defense",
+      "feature1_title": "Recognized Expertise",
+      "feature1_desc": "3+ years of experience in criminal law with sharp specialization in all criminal courts.",
+      "feature2_title": "Personalized Approach",
+      "feature2_desc": "Each client benefits from a tailor-made defense strategy adapted to their specific situation.",
+      "feature3_title": "Proven Results",
+      "feature3_desc": "An exceptional success rate thanks to meticulous preparation and effective pleading."
+    },
+    "press": {
+      "title": "In the press",
+      "read_article": "Read article",
+      "see_all_button": "See all press articles",
+      "articles": {
+        "sudinfo_nivelles": {
+          "title": "Sudinfo – The designated dealer of Nivelles",
+          "excerpt": "Mouhamadou, 21, aka \"Moha\", was considered the designated cocaine dealer of Nivelles..."
+        },
+        "dhnet_office": {
+          "title": "DHnet – The Immigration Office overruled",
+          "excerpt": "The court released individuals whom the Immigration Office wanted to deport, deeming the files incomplete..."
+        },
+        "avenir_clitophon": {
+          "title": "L’Avenir – Closing arguments in the Clitophon case",
+          "excerpt": "The prosecutor has requested a 27-year prison sentence for Jean-Luc Clitophon..."
+        }
+      }
+    },
+    "consultation": {
+      "title": "Need a consultation?",
+      "subtitle": "Contact me today for an initial assessment of your situation. Available for emergencies.",
+      "appointment_button": "Book an appointment",
+      "emergency_button": "Emergency Call: 0471 60 94 63"
+    }
+  }
+}

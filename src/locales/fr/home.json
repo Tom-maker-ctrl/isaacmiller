@@ -1,0 +1,61 @@
+{
+  "home": {
+    "hero": {
+      "subtitle": "Avocat Pénaliste",
+      "intro": "Expert en droit pénal en Belgique, je vous accompagne avec rigueur et détermination devant tous les tribunaux pénaux.",
+      "slogan": "« Justice avec rigueur, défense avec humanité. »",
+      "appointment_button": "Prendre rendez-vous",
+      "emergency_button": "Urgence: 0471 60 94 63"
+    },
+    "stats": {
+      "experience": "Années d'expérience",
+      "cases": "Affaires traitées",
+      "satisfaction": "Taux de satisfaction"
+    },
+    "expertise": {
+      "title": "Choisissez votre domaine d'expertise",
+      "subtitle": "Une approche spécialisée pour chaque type de procédure pénale",
+      "correctional_title": "Tribunal Correctionnel",
+      "correctional_desc": "Défense experte dans les affaires pénales complexes",
+      "police_title": "Tribunal de Police",
+      "police_desc": "Spécialisation dans les infractions de circulation et contraventions",
+      "book_now": "Réserver maintenant",
+      "see_all_button": "Voir tous les domaines d'expertise"
+    },
+    "why_us": {
+      "title": "Pourquoi choisir Isaac Miller ?",
+      "subtitle": "Une expertise reconnue au service de votre défense",
+      "feature1_title": "Expertise Reconnue",
+      "feature1_desc": "3 années d'expérience en droit pénal avec une spécialisation pointue dans tous les tribunaux pénaux.",
+      "feature2_title": "Approche Personnalisée",
+      "feature2_desc": "Chaque client bénéficie d'une stratégie de défense sur mesure adaptée à sa situation particulière.",
+      "feature3_title": "Résultats Probants",
+      "feature3_desc": "Un taux de réussite exceptionnel grâce à une préparation minutieuse et une plaidoirie efficace."
+    },
+    "press": {
+      "title": "Dans la presse",
+      "read_article": "Lire l'article",
+      "see_all_button": "Voir tous les articles de presse",
+      "articles": {
+        "sudinfo_nivelles": {
+          "title": "Sudinfo – Le dealer attitré de Nivelles",
+          "excerpt": "Mouhamadou, 21 ans, alias \"Moha\", était considéré comme le dealer de cocaïne attitré de Nivelles..."
+        },
+        "dhnet_office": {
+          "title": "DHnet – L’Office des étrangers désavoué",
+          "excerpt": "La justice a libéré des personnes que l'Office des étrangers voulait expulser, jugeant les dossiers incomplets..."
+        },
+        "avenir_clitophon": {
+          "title": "L’Avenir – Réquisitoire dans l’affaire Clitophon",
+          "excerpt": "L'avocat général a requis une peine de 27 ans de réclusion criminelle contre Jean-Luc Clitophon..."
+        }
+      }
+    },
+    "consultation": {
+      "title": "Besoin d'une consultation ?",
+      "subtitle": "Contactez-moi dès aujourd'hui pour une première évaluation de votre situation. Disponible pour les urgences.",
+      "appointment_button": "Réserver un rendez-vous",
+      "emergency_button": "Appel d'urgence: 0471 60 94 63"
+    }
+  }
+}

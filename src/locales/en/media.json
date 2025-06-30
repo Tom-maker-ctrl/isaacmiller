@@ -1,0 +1,127 @@
+{
+  "media": {
+    "title": "Media",
+    "subtitle": "Find all of Isaac Miller's media appearances, publications, and visual content in the public and professional space.",
+    "categories": {
+      "press": {
+        "title": "Press",
+        "description": "Press articles and interviews in Belgian media"
+      },
+      "photos": {
+        "title": "Photos",
+        "description": "Professional photo gallery and events"
+      },
+      "videos": {
+        "title": "Videos",
+        "description": "TV interviews and conferences"
+      }
+    },
+    "view_more": "View more",
+    "featured_title": "In the Spotlight",
+    "featured_subtitle": "The latest appearances and publications of Isaac Miller",
+    "featured_highlights": {
+      "sudinfo_nivelles": {
+        "type": "Press",
+        "title": "Sudinfo – The designated dealer of Nivelles"
+      },
+      "rtl_marcinelle": {
+        "type": "Video",
+        "title": "Child held captive in Marcinelle"
+      },
+      "dhnet_office": {
+        "type": "Press",
+        "title": "DHnet – The Immigration Office overruled"
+      }
+    },
+    "read_more": "Read more",
+    "presence_title": "Media Presence",
+    "stats": {
+      "appearances": "Media Appearances",
+      "publications": "Articles & Publications",
+      "conferences": "Conferences"
+    },
+    "carousel": {
+      "slide1": "Preparation. Dedication. Each case is a story, each client a priority. Total commitment before each plea.",
+      "slide2": "Taking the stage. The defense. Entering the courtroom means raising your voice, defending your rights with conviction and expertise."
+    }
+  },
+  "press_page": {
+    "title": "Press Review",
+    "search_placeholder": "Search articles...",
+    "all_years": "All years",
+    "no_articles_found_title": "No articles found",
+    "no_articles_found_desc": "Try adjusting your search criteria.",
+    "read_article": "Read article",
+    "articles": {
+      "sudinfo_nivelles": {
+        "title": "Sudinfo – The designated dealer of Nivelles",
+        "excerpt": "Mouhamadou, 21, aka \"Moha\", was considered the designated cocaine dealer of Nivelles. His trial shed light on a well-organized network."
+      },
+      "dhnet_office": {
+        "title": "DHnet – The Immigration Office overruled",
+        "excerpt": "The court released individuals whom the Immigration Office wanted to deport, deeming the files incomplete. A decision that raises questions about deportation procedures."
+      },
+      "avenir_clitophon": {
+        "title": "L’Avenir – Closing arguments in the Clitophon case",
+        "excerpt": "The prosecutor has requested a 27-year prison sentence for Jean-Luc Clitophon, the alleged perpetrator of a murder in La Louvière."
+      },
+      "dhnet_crime": {
+        "title": "DHnet – Crime in La Louvière",
+        "excerpt": "Jean-Luc Clitophon's lawyers contest the intent to kill in the La Louvière crime case, arguing for a reclassification of the charges."
+      },
+      "sudinfo_enquete": {
+        "title": "Sudinfo – Botched investigation in La Louvière",
+        "excerpt": "A man on trial for assaulting a woman at Place Mansart in La Louvière could benefit from an investigation deemed \"botched\" by the defense."
+      },
+      "rtl_agression": {
+        "title": "RTL Info – Fatal assault in Ostend",
+        "excerpt": "The arrest warrant for a man suspected of a fatal assault in Ostend has been extended. The investigation continues to determine the exact circumstances of the tragedy."
+      }
+    }
+  },
+  "photos_page": {
+    "title": "Photo Gallery",
+    "subtitle": "Discover Isaac Miller in action and at professional events.",
+    "categories": {
+      "all": "All",
+      "portraits": "Portraits",
+      "courts": "Courts"
+    },
+    "view_large": "View large",
+    "no_photos_title": "No photos in this category",
+    "no_photos_desc": "Select another category to see more photos.",
+    "modal": {
+      "views": "{count} views",
+      "likes": "{count} likes"
+    },
+    "gallery": {
+      "portrait_robe": {
+        "title": "Isaac Miller in lawyer's robe"
+      },
+      "audience": {
+        "title": "Isaac Miller in court"
+      }
+    }
+  },
+  "videos_page": {
+    "title": "Video Library",
+    "subtitle": "Find all of Isaac Miller's TV interviews, conferences, and legal analyses in video format.",
+    "categories": {
+      "all": "All videos",
+      "interviews": "Interviews"
+    },
+    "no_videos_title": "No videos in this category",
+    "no_videos_desc": "Select another category to see more videos.",
+    "featured_video_title": "Featured Video",
+    "watch_video": "Watch video",
+    "watch_now": "Watch now",
+    "view": "View",
+    "views": "{count} views",
+    "videos": {
+      "marcinelle": {
+        "title": "Child held captive in Marcinelle: parents' trial begins in court",
+        "description": "Report on the start of the parents' trial in the case of the child held captive in Marcinelle."
+      }
+    }
+  }
+}

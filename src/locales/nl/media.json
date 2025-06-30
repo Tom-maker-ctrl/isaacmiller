@@ -1,0 +1,127 @@
+{
+  "media": {
+    "title": "Media",
+    "subtitle": "Vind alle media-optredens, publicaties en visuele content van Isaac Miller in de publieke en professionele ruimte.",
+    "categories": {
+      "press": {
+        "title": "Pers",
+        "description": "Persartikelen en interviews in Belgische media"
+      },
+      "photos": {
+        "title": "Foto's",
+        "description": "Professionele fotogalerij en evenementen"
+      },
+      "videos": {
+        "title": "Video's",
+        "description": "TV-interviews en conferenties"
+      }
+    },
+    "view_more": "Bekijk meer",
+    "featured_title": "In de schijnwerpers",
+    "featured_subtitle": "De laatste optredens en publicaties van Isaac Miller",
+    "featured_highlights": {
+      "sudinfo_nivelles": {
+        "type": "Pers",
+        "title": "Sudinfo – De vaste dealer van Nijvel"
+      },
+      "rtl_marcinelle": {
+        "type": "Video",
+        "title": "Kind gegijzeld in Marcinelle"
+      },
+      "dhnet_office": {
+        "type": "Pers",
+        "title": "DHnet – De Dienst Vreemdelingenzaken teruggefloten"
+      }
+    },
+    "read_more": "Lees meer",
+    "presence_title": "Media-aanwezigheid",
+    "stats": {
+      "appearances": "Media-optredens",
+      "publications": "Artikelen & Publicaties",
+      "conferences": "Conferenties"
+    },
+    "carousel": {
+      "slide1": "De voorbereiding. De toewijding. Elke zaak is een verhaal, elke cliënt een prioriteit. Volledige inzet voor elk pleidooi.",
+      "slide2": "Het podium betreden. De verdediging. De deuren van de rechtbank binnengaan betekent uw stem laten horen, uw rechten verdedigen met overtuiging en expertise."
+    }
+  },
+  "press_page": {
+    "title": "Persoverzicht",
+    "search_placeholder": "Zoek in artikelen...",
+    "all_years": "Alle jaren",
+    "no_articles_found_title": "Geen artikelen gevonden",
+    "no_articles_found_desc": "Probeer uw zoekcriteria aan te passen.",
+    "read_article": "Lees artikel",
+    "articles": {
+      "sudinfo_nivelles": {
+        "title": "Sudinfo – De vaste dealer van Nijvel",
+        "excerpt": "Mouhamadou, 21, alias \"Moha\", werd beschouwd als de vaste cocaïnedealer van Nijvel. Zijn proces bracht een goed georganiseerd netwerk aan het licht."
+      },
+      "dhnet_office": {
+        "title": "DHnet – De Dienst Vreemdelingenzaken teruggefloten",
+        "excerpt": "De rechtbank heeft personen vrijgelaten die de Dienst Vreemdelingenzaken wilde uitzetten, omdat de dossiers onvolledig waren. Een beslissing die vragen oproept over de uitzettingsprocedures."
+      },
+      "avenir_clitophon": {
+        "title": "L’Avenir – requisitoir in de zaak Clitophon",
+        "excerpt": "De advocaat-generaal heeft 27 jaar gevangenisstraf geëist tegen Jean-Luc Clitophon, de vermoedelijke dader van een moord in La Louvière."
+      },
+      "dhnet_crime": {
+        "title": "DHnet – Misdaad in La Louvière",
+        "excerpt": "De advocaten van Jean-Luc Clitophon betwisten de moordintentie in de zaak van de misdaad in La Louvière en pleiten voor een herkwalificatie van de feiten."
+      },
+      "sudinfo_enquete": {
+        "title": "Sudinfo – Slordig onderzoek in La Louvière",
+        "excerpt": "Een man die terechtstaat voor slagen aan een vrouw op het Place Mansart in La Louvière zou kunnen profiteren van een onderzoek dat door de verdediging als \"slordig\" wordt bestempeld."
+      },
+      "rtl_agression": {
+        "title": "RTL Info – Dodelijke agressie in Oostende",
+        "excerpt": "Het aanhoudingsbevel voor een man verdacht van een dodelijke agressie in Oostende is verlengd. Het onderzoek gaat door om de precieze omstandigheden van het drama te bepalen."
+      }
+    }
+  },
+  "photos_page": {
+    "title": "Fotogalerij",
+    "subtitle": "Ontdek Isaac Miller in actie en op professionele evenementen.",
+    "categories": {
+      "all": "Alle",
+      "portraits": "Portretten",
+      "courts": "Rechtbanken"
+    },
+    "view_large": "Groot bekijken",
+    "no_photos_title": "Geen foto's in deze categorie",
+    "no_photos_desc": "Selecteer een andere categorie om meer foto's te zien.",
+    "modal": {
+      "views": "{count} keer bekeken",
+      "likes": "{count} likes"
+    },
+    "gallery": {
+      "portrait_robe": {
+        "title": "Isaac Miller in toga"
+      },
+      "audience": {
+        "title": "Isaac Miller in de rechtszaal"
+      }
+    }
+  },
+  "videos_page": {
+    "title": "Videotheek",
+    "subtitle": "Vind alle tv-interviews, conferenties en juridische analyses van Isaac Miller in videoformaat.",
+    "categories": {
+      "all": "Alle video's",
+      "interviews": "Interviews"
+    },
+    "no_videos_title": "Geen video's in deze categorie",
+    "no_videos_desc": "Selecteer een andere categorie om meer video's te zien.",
+    "featured_video_title": "Uitgelichte video",
+    "watch_video": "Bekijk video",
+    "watch_now": "Nu bekijken",
+    "view": "Bekijk",
+    "views": "{count} keer bekeken",
+    "videos": {
+      "marcinelle": {
+        "title": "Kind gegijzeld in Marcinelle: proces van ouders begint in de rechtbank",
+        "description": "Verslag over de start van het proces van de ouders in de zaak van het gegijzelde kind in Marcinelle."
+      }
+    }
+  }
+}

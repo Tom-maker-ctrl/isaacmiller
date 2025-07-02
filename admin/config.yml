@@ -1,0 +1,36 @@
+# public/admin/config.yml
+backend:
+  name: git-gateway
+  branch: main # La branche de votre dépôt GitHub que le CMS va surveiller pour les changements
+
+publish_mode: simple
+media_folder: "public/images" # Où les images uploadées via le CMS seront stockées
+public_folder: "/images" # Chemin public pour ces images
+
+collections:
+  - name: "translations" # Un nom de collection plus approprié pour i18next
+    label: "Traductions du Site"
+    files:
+      - file: "src/locales/fr/translation.json" # <--- Chemin vers votre fichier de traduction FR
+        label: "Traductions Françaises (FR)"
+        name: "french_translations"
+        fields:
+          # Exemple de champs. Regardez dans votre src/locales/fr/translation.json pour vos clés exactes
+          - {label: "Titre principal (Header)", name: "header.title", widget: "string"}
+          - {label: "Sous-titre Héro", name: "home.hero.subtitle", widget: "string"}
+          - {label: "Introduction Héro", name: "home.hero.intro", widget: "text"}
+          # Ajoutez d'autres champs ici en suivant la structure de vos clés i18next
+          # Si vous avez des sections (ex: "home": { "stats": { "experience": "..." } }),
+          # la clé sera "home.stats.experience"
+          - {label: "Expérience (Stats)", name: "home.stats.experience", widget: "string"}
+          # ... continuez pour toutes les clés que vous voulez éditer
+      - file: "src/locales/en/translation.json" # <--- Ajoutez d'autres fichiers de langue si vous en avez
+        label: "Traductions Anglaises (EN)"
+        name: "english_translations"
+        fields:
+          # Répétez les mêmes champs que pour le français
+          - {label: "Main Title (Header)", name: "header.title", widget: "string"}
+          - {label: "Hero Subtitle", name: "home.hero.subtitle", widget: "string"}
+          - {label: "Hero Intro", name: "home.hero.intro", widget: "text"}
+          - {label: "Experience (Stats)", name: "home.stats.experience", widget: "string"}
+          # ...

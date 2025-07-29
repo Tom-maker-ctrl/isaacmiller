@@ -131,7 +131,7 @@ const Home = () => {
 
               <div className="flex items-center space-x-8 pt-4">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-slate-800">3+</div>
+                  <div className="text-2xl font-bold text-slate-800">5+</div>
                   <div className="text-sm text-slate-600">{t('home.stats.experience')}</div>
                 </div>
                 <div className="text-center">

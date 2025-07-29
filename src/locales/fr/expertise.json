@@ -93,7 +93,7 @@
     "service3_urgency": "Standard",
     "procedure_title": "Procédure d'Intervention",
     "procedure1_title": "Contact Immédiat",
-    "procedure1_desc": "Prise de contact dans les 2 heures suivant votre appel.",
+    "procedure1_desc": "Prise de contact suivant votre appel.",
     "procedure1_time": "< 2h",
     "procedure2_title": "Analyse du Dossier",
     "procedure2_desc": "Étude approfondie des éléments de la procédure.",
